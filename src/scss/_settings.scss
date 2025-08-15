@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #app{
+    width: 100%;
+  }
+  
+  
+  @font-face {
+    font-family:sanlight;
+    src: url("../../public/fonts/IRANSansWeb-Light.eot");
+    src: url("../../public/fonts/IRANSansWeb-Light.ttf");
+    src: url("../../public/fonts/IRANSansWeb-Light.woff");
+    src: url("../../public/fonts/IRANSansWeb-Light.woff2");
+  }
